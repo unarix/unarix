@@ -5,3 +5,4 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code%20-007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Mint](https://img.shields.io/badge/linux%20mint%20-87CF3E.svg?&style=for-the-badge&logo=linux%20mint&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux%20-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Node.Js%20-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
