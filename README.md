@@ -7,3 +7,4 @@
 ![c](https://img.shields.io/badge/ANSIC%20-00599C.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux%20-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.Js%20-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python&logoColor=white)
