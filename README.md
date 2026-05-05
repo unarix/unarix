@@ -8,3 +8,4 @@
 ![Linux](https://img.shields.io/badge/linux%20-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.Js%20-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python&logoColor=white)
+![Js](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
